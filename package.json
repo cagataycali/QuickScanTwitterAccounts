@@ -25,9 +25,9 @@
   },
   "dependencies": {
     "exec": "^0.2.1",
-    "jsdom": "^9.2.0",
+    "jsdom": "^16.6.0",
     "mysql": "^2.10.2",
-    "nodemon": "^1.9.2",
+    "nodemon": "^2.0.0",
     "request": "^2.72.0",
     "sequelize": "^3.23.2"
   }
